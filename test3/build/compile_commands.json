@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/drone.dir/main.cpp.o -c /Users/enly/Downloads/Fuzzing-Module-main/exercise3/main.cpp",
+  "file": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/main.cpp",
+  "output": "CMakeFiles/drone.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/drone.dir/maneuvers.cpp.o -c /Users/enly/Downloads/Fuzzing-Module-main/exercise3/maneuvers.cpp",
+  "file": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/maneuvers.cpp",
+  "output": "CMakeFiles/drone.dir/maneuvers.cpp.o"
+},
+{
+  "directory": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/drone.dir/specs.cpp.o -c /Users/enly/Downloads/Fuzzing-Module-main/exercise3/specs.cpp",
+  "file": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/specs.cpp",
+  "output": "CMakeFiles/drone.dir/specs.cpp.o"
+},
+{
+  "directory": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/drone.dir/sys_status.cpp.o -c /Users/enly/Downloads/Fuzzing-Module-main/exercise3/sys_status.cpp",
+  "file": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/sys_status.cpp",
+  "output": "CMakeFiles/drone.dir/sys_status.cpp.o"
+},
+{
+  "directory": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/specs-slice.dir/specs-slice.cpp.o -c /Users/enly/Downloads/Fuzzing-Module-main/exercise3/specs-slice.cpp",
+  "file": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/specs-slice.cpp",
+  "output": "CMakeFiles/specs-slice.dir/specs-slice.cpp.o"
+},
+{
+  "directory": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++    -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -o CMakeFiles/specs-slice.dir/specs.cpp.o -c /Users/enly/Downloads/Fuzzing-Module-main/exercise3/specs.cpp",
+  "file": "/Users/enly/Downloads/Fuzzing-Module-main/exercise3/specs.cpp",
+  "output": "CMakeFiles/specs-slice.dir/specs.cpp.o"
+}
+]
